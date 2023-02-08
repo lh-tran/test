@@ -1,2 +1,2 @@
 foo bar
-faulty line
+choo choo
