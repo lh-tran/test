@@ -1,3 +1,2 @@
-foo bar
 choo choo
 putty test
