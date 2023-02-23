@@ -10,3 +10,5 @@ p <- mpg %>%
     theme(legend.position="none") +
     xlab("")
 p
+
+p2 <- 1
