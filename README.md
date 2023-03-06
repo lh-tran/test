@@ -1,3 +1,1 @@
-# test
-test repo for git demo purpose
-change from main branch
+test repo for git demo purposes
