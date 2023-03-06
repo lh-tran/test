@@ -1,1 +1,1 @@
-test repo for git demo purposes
+test repo for git basic demo purposes
